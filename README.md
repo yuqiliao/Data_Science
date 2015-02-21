@@ -7,6 +7,6 @@ I used the Twitter API to download 6000 tweets from 10 media sources (600 tweets
 
 I then analysized the tweets using r, with the main structure similar to what has been taught on Dr.Barbera's workshop. Using a lexicon from Neal Caren of positive and negative words, results from each media accounts were shown. I further conducted an hypothesis test about the difference of the mean of the positive and negative group, and found that under convential significance level we would reject the null hypothesis that news is a downer.(p=0.0206)
 
-#A cautinary note that the tweets that I gathered from API is up-to-date so the timing of getting the data might influence the analysis output. I have tried to run the code and to get data during different time of a day, and in different day of the week, and found the statistical significance remain unchanged.#
+#####A cautinary note that the tweets that I gathered from API is up-to-date so the timing of getting the data might influence the analysis output. I have tried to run the code and to get data during different time of a day, and in different day of the week, and found the statistical significance remain unchanged.#####
 
 At last, I have drawed line chart using excel and later made an infography to summarize and better present the result.
